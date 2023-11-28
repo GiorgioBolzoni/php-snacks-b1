@@ -1,0 +1,18 @@
+body{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3z-SGqSb59kgaybeqE2dQAtzn-F4EHEdZ1A&usqp=CAU);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: rgb(255, 255, 255);
+    font-size: 2em;
+    font-weight: 900;
+    display: flex;
+    align-items: center;
+}
+#risultati{
+    background-color: rgba(0, 0, 0, 0.648);
+}
+h1{
+    font-size: 3em;
+    font-weight: 600;
+
+}
